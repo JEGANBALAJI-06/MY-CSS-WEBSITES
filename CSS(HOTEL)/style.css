@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+ul,li{
+    display: inline;
+     color: grey;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.box{
+   
+    margin-top: 100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+    display: inline-block;
+    width: 225px;
+   
+    
+
+}
+.box1{
+
+    display: inline;
+    background-color: black;
+    font-style: oblique;
+    color: white;
+   margin-top: 50px;
+   cursor: pointer;
+  
+
+}
+.contact{
+
+    background-color: black;
+    color: white;
+    margin-top: 90px;
+    padding: 20px;
+    display: inline-block;
+   
+}
+form{
+    padding: 20px;
+}
+.contact2{
+    margin-top: 30px;
+    margin-left: 70%;
+    padding: 30px;
+}
+.nav1{
+
+    background-color: #eaff00;
+    color:rgb(55, 12, 148) ;
+    padding: 10px;
+    display: inline-block;
+   
+
+}
